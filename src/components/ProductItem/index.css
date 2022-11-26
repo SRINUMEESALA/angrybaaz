@@ -1,0 +1,32 @@
+.itemImage {
+    width: 40%;
+}
+
+.infoCon {
+    flex-grow: 1;
+}
+
+.type {
+    color: #787878;
+}
+
+.lineDec {
+    background-color: #F0F0F0;
+}
+
+.pricesCon p {
+    margin: 0px;
+
+}
+
+.arrrowIcon {
+    font-size: 25px;
+}
+
+.orderPlacedEle {
+    position: absolute;
+    bottom: 92%;
+    left: 50%;
+    border-radius: 20px;
+    padding: 4px 10px 4px 10px;
+}

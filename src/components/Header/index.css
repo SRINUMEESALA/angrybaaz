@@ -1,0 +1,12 @@
+.navbarCon {
+    width: 90%
+}
+
+.activeTab {
+    height: 100%;
+    align-self: stretch;
+}
+
+.navParentCon {
+    background-color: #171f46;
+}
